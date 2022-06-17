@@ -9,7 +9,7 @@
   "author": "Adeel Rizvi",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^8.2.4"
+    "electron": "^15.5.5"
   },
   "dependencies": {}
 }
